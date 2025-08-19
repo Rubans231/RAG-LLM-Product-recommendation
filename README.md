@@ -1,9 +1,9 @@
 
 2025-08-19 12:45
 
-Status:
+Difficulty: easy
 
-Tags: [[LLMs(Large language models)]] [[freecodecamp]] 
+Tags: Machine learning
 
 
 
